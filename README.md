@@ -1,2 +1,2 @@
-# AutumnBox_CI_ADB_Binary
-A repo for store adb files for AutumnBox CI building.
+# Notice
+Put adb binary files in there if you want to build and run AutumnBox successfully.
